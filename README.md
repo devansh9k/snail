@@ -13,6 +13,8 @@ array = [[1,2,3],
          [7,6,5]]
 snail(array) #=> [1,2,3,4,5,6,7,8,9]
 This image will illustrate things more clearly:
+![image](https://user-images.githubusercontent.com/84266540/161874676-d86f03d3-d8aa-404d-a4e6-6f8fe397b07f.png)
+
 
 
 NOTE: The idea is not sort the elements from the lowest value to the highest; the idea is to traverse the 2-d array in a clockwise snailshell pattern.
